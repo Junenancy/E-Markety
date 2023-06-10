@@ -1,0 +1,112 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+}
+.signup-box{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: #ffffff;
+    padding-top: 40px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.signin-box{
+    width: 360px;
+    height: 400px;
+    margin: auto;
+    background-color: #ffffff;
+    padding-top: 40px;
+}
+.signup-btn{
+    background-color: #7114FE;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s ease;
+    margin-left: 20px; 
+}
+
+.signup-btn:hover{
+    background-color: #7114FE;
+}
+h3{
+    color: #B525EC;
+    margin-left: 20px;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 14px;
+}
+form input{
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 4px;
+    outline: none;
+}
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #7013FF;
+    color: #ffffff;
+    font-size: 15px;
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+.para-2{
+    text-align: center;
+    color: #ffffff;
+    font-size: 15px;
+    margin-top: -10px;
+}
+.para-2 a{
+    color: #7013ff;
+}
+h5{
+    text-align: end;
+    color: #7114FE;
+}
+.pwd-container{
+    position: relative;
+}
+.fa-eye{
+    position: absolute;
+    top: 28%;
+    right: 4%;
+    cursor: pointer;
+}
+.continue{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;  
+    column-gap: 0.5rem;
+    font-size: 12px;
+    opacity: 0.5;
+}
+.continue:before, .continue:after{
+  content: "";
+  height: 2px;
+  display: block;
+  background: gray;
+}
+.icons{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 2rem;
+    font-size: 30px;
+}
