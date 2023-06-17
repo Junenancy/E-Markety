@@ -1,15 +1,17 @@
 Team Name: Alpha Techies
-Product Name: E-Markety
+Product Name: Agrivestas
 
 
 Project Idea:
-The project idea is to develop an innovative web3 platform that tokenizes online marketplaces, enabling the buying and selling of services and goods, with a specific focus on essential items such as food and basic necessities. The primary means of exchange for transactions on this platform will be Hedera Coin, a fast, secure, and low-cost cryptocurrency.
+To develop Agrivestas, a platform for investors to invest in agricultural produce such as food crops, feed crops, fiber crops, oil crops, ornamental crops, industrial crops and livestock. The investor invests in any of these in a hedera coin to get a sizable share and rate of investment after a period of time. 
+The investment is used to finance registered farmers on the platform to perform their agricultural activities thereby making farming finance accessible to farmers and alleviating poverty and hunger issues in Africa.
+
 
 Product Overview:
-The goal of our web3 product is to create a decentralized online marketplace that facilitates the buying and selling of services and goods, focusing on essential items such as food and basic necessities. The marketplace will be built on hedera blockchain technology, specifically leveraging Hedera Coin as the primary means of exchange. By tokenizing transactions and incorporating smart contracts, we aim to provide a secure, transparent, and efficient platform for users(buyers and sellers) in the African market to access essential goods and services.
+Our product, Agrivestas is a web and mobile web3 platform that allows investors to participate in agricultural investments by purchasing tokens representing specific agricultural produce. Through our platform, the investors invest in a wide range of agricultural produce, such as food crops, feed crops, fiber crops, oil crops, ornamental crops, industrial crops, and livestock. using the Hedera coin to make investments and receive a substantial share and return on their investment over time. The funds raised from these investments are utilized to provide financing to registered farmers on our platform, ultimately making farming finance more accessible and addressing poverty and hunger issues in Africa.
 
-Problem Statement for the Africa Market:
-In many parts of Africa, using Nigeria as a case study, accessing essential goods and services can be challenging due to fluctuating high costs, exploitation, lack of reliable online marketplaces and limited infrastructure. 
-Traditional markets which seem to be the primary marketplace for Africans tend to be an avenue for increase in the rate of exploitation among the buyers and sellers with irregular skyrocketed high cost.
-Also, traditional e-commerce platforms often face difficulties in delivering products to remote areas, and the lack of trust and transparency in transactions can discourage users from engaging in online commerce. 
-Furthermore, during the era of no cash flow in Nigeria, a lot of barriers especially financial barriers coupled with limited access to banking services set in making it difficult for people to get basic things which led to an increase in the rate of exploitation, it also hindered the participation of underserved communities in the digital economy.
+
+Problem Statement
+Access to financial resources is a significant challenge for farmers in Africa, which hinders their ability to expand their agricultural activities, maximize their agricultural potential, enhance productivity, and improve their livelihoods.Which increases the rates of poverty and hunger in Africa. Additionally, traditional investment opportunities often lack transparency and accessibility, limiting investors' ability to diversify their portfolios and invest in the agricultural sector. 
+This disconnect between investors and farmers creates barriers to sustainable agricultural development, economic growth and makes poverty and hunger worse in Africa.
+
